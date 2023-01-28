@@ -1,0 +1,31 @@
+{
+  "name": "discord-pollbot",
+  "version": "0.0.0",
+  "description": "Make easy polls",
+  "main": "src/index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aguadecoco1301/discord-pollbot.git"
+  },
+  "keywords": [
+    "discord",
+    "polls",
+    "bot"
+  ],
+  "author": "AguaDeCoco1301",
+  "license": "CC-BY 4.0",
+  "bugs": {
+    "url": "https://github.com/aguadecoco1301/discord-pollbot/issues"
+  },
+  "homepage": "https://github.com/aguadecoco1301/discord-pollbot#readme",
+  "dependencies": {
+    "@discordjs/rest": "^1.5.0",
+    "discord.js": "^14.7.1"
+  }
+}
